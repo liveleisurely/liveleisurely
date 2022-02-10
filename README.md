@@ -1,8 +1,8 @@
 ### 👋 Hi, forward-looking person, Byunghoon YU
 
 **Personal Information**
-  + (BA) Sungkyunkwan University, Global Economics 
   + (MS) Sungkyunkwan University, Fintech 
+  + (BA) Sungkyunkwan University, Global Economics 
 
 **Interests**
   + Credit Market Analysis with various ML, DL
