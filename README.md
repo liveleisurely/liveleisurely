@@ -10,7 +10,7 @@
   + Recommendation System
 
 **Paper Review**
-  + Notion Link <https://www.notion.so/fintechanalysis/ccfb6f01799d47528a44df66953f4131?v=f0c14f7348ec4f43b9bf9c28b70313ff>
+  + Notion Link:  <https://www.notion.so/fintechanalysis/ccfb6f01799d47528a44df66953f4131?v=f0c14f7348ec4f43b9bf9c28b70313ff>
 
 **Working Expriences**
   + (Past) Recruiting Researcher (Intern), Service Planning Team of Saramin HR
