@@ -24,7 +24,7 @@
   + MS office
 
 **Certificate**
-  + Big data Analysis Engineer (빅데이터분석기사)
+  + Big ata Analysis Engineer (빅데이터분석기사)
   + Engineer Information Processing (정보처리기사)
   + Advanced Data Analytics Semi-Professional (ADSP)
   + SQL developer (SQLD)
