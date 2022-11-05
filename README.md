@@ -1,4 +1,4 @@
-### 👋 Hi, forward-looking person, Byunghoon YU
+### 👋 Hi, forward-looking person, Dongwon YU
 
 **Personal Information**
   + (MS) Sungkyunkwan University, Fintech 
