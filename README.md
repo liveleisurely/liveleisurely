@@ -12,14 +12,14 @@
   + Financial analysis with Natural Language Processing
   + Recommendation System
 
-**I've read...**
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/width=0.5&height=0.5>
+**I've read...**<br>
+<a href="https://www.notion.so/fintechanalysis/ccfb6f01799d47528a44df66953f4131?v=f0c14f7348ec4f43b9bf9c28b70313ff"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 
 <!-- **Working Expriences**
   + (Past) Recruiting Researcher (Intern), Service Planning Team of Saramin HR
   + (Past) Personnel manager, HR team of GreenCross -->
 
-**I've been used**
+**I've been used** </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-276DC3?style=flat-square&logo=MySQL&logoColor=white"/>
