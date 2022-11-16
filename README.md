@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/Pytorch-FF6F00?style=for-the-badge&logo=Pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/MSOFFICE-D83B01?style=for-the-badge&logo=MSOFFICE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-000000?style=for-the-badge&logo=Slack&logoColor=white">
 
 **Certificate**
   + Big data Analysis Engineer (빅데이터분석기사)
