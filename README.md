@@ -22,11 +22,9 @@
   + (Past) Recruiting Researcher (Intern), Service Planning Team of Saramin HR
   + (Past) Personnel manager, HR team of GreenCross -->
 
-**I've been used** </br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-276DC3?style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
+**I've been used**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-276DC3?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-FF6F00?style=for-the-badge&logo=Pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/MSOFFICE-D83B01?style=for-the-badge&logo=MSOFFICE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
