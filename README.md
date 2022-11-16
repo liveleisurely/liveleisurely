@@ -1,5 +1,7 @@
 ### 👋 Hi, forward-looking person, Dongwon YU
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 **Personal Information**
   + (MS) Sungkyunkwan University, Fintech 
   + (BA) Sungkyunkwan University, Global Economics 
