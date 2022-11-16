@@ -22,11 +22,10 @@
 
 **I've been used**
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  + Python
-  + R
-  + SQL
-  + Stata
-  + MS office
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-276DC3?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSOFFICE-D83B01?style=flat-square&logo=MSOFFICE&logoColor=white"/>
 
 **Certificate**
   + Big ata Analysis Engineer (빅데이터분석기사)
