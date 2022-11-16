@@ -13,8 +13,7 @@
   + Recommendation System
 
 **I've read...**
-  + Notion Link:  <https://www.notion.so/fintechanalysis/ccfb6f01799d47528a44df66953f4131?v=f0c14f7348ec4f43b9bf9c28b70313ff>
-
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/width=0.5&height=0.5>
 
 <!-- **Working Expriences**
   + (Past) Recruiting Researcher (Intern), Service Planning Team of Saramin HR
