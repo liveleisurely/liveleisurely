@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 **Certificate**
-  + Big ata Analysis Engineer (빅데이터분석기사)
+  + Big data Analysis Engineer (빅데이터분석기사)
   + Engineer Information Processing (정보처리기사)
   + Advanced Data Analytics Semi-Professional (ADSP)
   + SQL developer (SQLD)
