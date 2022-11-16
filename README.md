@@ -9,6 +9,7 @@
 
 **I'm interested in..**
   + Credit Market Analysis with various ML, DL
+  + Explainable AI (XAI)
   + Financial analysis with Natural Language Processing
   + Recommendation System
 
