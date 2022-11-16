@@ -7,12 +7,12 @@
   + (MS) Sungkyunkwan University, Fintech 
   + (BA) Sungkyunkwan University, Global Economics 
 
-**Interests**
+**I'm interested in..**
   + Credit Market Analysis with various ML, DL
   + Financial analysis with Natural Language Processing
   + Recommendation System
 
-**Paper Review**
+**I've read...**
   + Notion Link:  <https://www.notion.so/fintechanalysis/ccfb6f01799d47528a44df66953f4131?v=f0c14f7348ec4f43b9bf9c28b70313ff>
 
 
@@ -20,7 +20,7 @@
   + (Past) Recruiting Researcher (Intern), Service Planning Team of Saramin HR
   + (Past) Personnel manager, HR team of GreenCross -->
 
-**Technologies**
+**I've been used**
   + Python
   + R
   + SQL
