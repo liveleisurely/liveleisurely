@@ -21,6 +21,7 @@
   + (Past) Personnel manager, HR team of GreenCross -->
 
 **I've been used**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=로고명&logoColor=로고색"/>
   + Python
   + R
   + SQL
