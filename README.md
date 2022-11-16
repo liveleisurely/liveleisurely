@@ -1,7 +1,12 @@
+<div align=center>
+  
 ### 👋 Hi, forward-looking person, Dongwon YU
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liveleisurely&show_icons=true&theme=transparent)
 
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liveleisurely&show_icons=true&theme=transparent)
+  
+</div>
 
 **Personal Information**
   + (MS) Sungkyunkwan University, Fintech 
@@ -14,19 +19,19 @@
   + Recommendation System
 
 **I've read...**<br>
-<a href="https://www.notion.so/fintechanalysis/ccfb6f01799d47528a44df66953f4131?v=f0c14f7348ec4f43b9bf9c28b70313ff"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+<a href="https://www.notion.so/fintechanalysis/ccfb6f01799d47528a44df66953f4131?v=f0c14f7348ec4f43b9bf9c28b70313ff"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 <!-- **Working Expriences**
   + (Past) Recruiting Researcher (Intern), Service Planning Team of Saramin HR
   + (Past) Personnel manager, HR team of GreenCross -->
 
 **I've been used** </br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-276DC3?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pytorch-FF6F00?style=flat-square&logo=Pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/MSOFFICE-D83B01?style=flat-square&logo=MSOFFICE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-276DC3?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-FF6F00?style=for-the-badge&logo=Pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSOFFICE-D83B01?style=for-the-badge&logo=MSOFFICE&logoColor=white"/>
 
 **Certificate**
   + Big ata Analysis Engineer (빅데이터분석기사)
@@ -34,6 +39,12 @@
   + Advanced Data Analytics Semi-Professional (ADSP)
   + SQL developer (SQLD)
   + Computer Specialist in Spreadsheet & Database Level-I (컴퓨터활용능력 1급)
+
+
+
+
+
+
 
 
 
