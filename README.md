@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liveleisurely&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liveleisurely)
+
 **Personal Information**
   + (MS) Sungkyunkwan University, Fintech 
   + (BA) Sungkyunkwan University, Global Economics 
