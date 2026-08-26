@@ -6,8 +6,6 @@
 
 I build trustworthy AI systems that turn complex financial and enterprise data into decisions people can understand and act on.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liveleisurely&show_icons=true&theme=transparent&hide_border=true)](https://github.com/liveleisurely)
-
 </div>
 
 ## About me
